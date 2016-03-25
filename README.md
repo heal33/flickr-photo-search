@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # flickr-photo-search
 
 ----
@@ -30,4 +30,4 @@ View it [here](https://github.com/heal33/flickr-photo-search)
 ###View it [here](http://www.heavenlee.xyz/flickr-photo-search/)!
 
 ----
->>>>>>> gh-pages
+
