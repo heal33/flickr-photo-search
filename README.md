@@ -1,6 +1,6 @@
 # Flickr Photo Search
 #### HTML // CSS // jQuery
-[http://www.heavenlee.io/flickr-photo-search/](http://heavenlee.io/flickr-photo-search/)
+[http://heal33.github.io/flickr-photo-search/](http://heal33.github.io/flickr-photo-search/)
 
 ----
 
